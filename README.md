@@ -34,6 +34,21 @@ Database:
  Postgresql
 
 ```
+Other Screenshots:
+
+![alt text](Sample%20Outputs/s1.PNG "Algorithm-Visualizer Home ")
+
+![alt text](Sample%20Outputs/s2.PNG "Algorithm-Visualizer Home ")
+
+![alt text](Sample%20Outputs/s3.PNG "Algorithm-Visualizer Main ")
+
+![alt text](Sample%20Outputs/s4.PNG "Sieve of Eratosthenes")
+
+![alt text](Sample%20Outputs/s5.PNG "Algorithm")
+
+![alt text](Sample%20Outputs/s6.PNG "Algorithm-Visualizer About")
+
+![alt text](Sample%20Outputs/s7.PNG "Algorithm")
 ### Eclipse Oxygen IDE was used to slice and dice the project
 
 ## Contributors
@@ -42,7 +57,7 @@ Database:
 
 [Shubham Rana](https://github.com/rana11shubham)
 
-[Rishabh Jain](#)
+[Rishabh Jain](https://www.github.com/Rishabh-1936)
 
 
 ## License
