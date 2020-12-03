@@ -53,11 +53,11 @@ Other Screenshots:
 
 ## Contributors
 
+[Rishabh Jain](https://www.github.com/Rishabh-1936)
+
 [Ankit Kumar Dwivedi](https://github.com/ankit-kumar-dwivedi)
 
 [Shubham Rana](https://github.com/rana11shubham)
-
-[Rishabh Jain](https://www.github.com/Rishabh-1936)
 
 
 ## License
